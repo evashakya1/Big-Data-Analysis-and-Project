@@ -1,6 +1,5 @@
 # Big Data Analysis and Project
- 
-https://drive.google.com/file/d/1U3u8QYzLjnEaSurtZfSAS_oh9AT2Mn8X/edit
+
 
 #  Weather based Road Accident Prediction for Drivers’ Safety
 
@@ -8,17 +7,17 @@ This repository contains the code and analysis for my project onRoad Accident Pr
 
 
 - Code was developed and run on **Google Colab**.
-- Colab notebook is in the f`.ipynb` format
+- Colab notebook is in the `.ipynb` format
 
 ## Dataset
 
-- Dataset used: [US Accidents (Kaggle)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
+- Dataset usedfrom [US Accidents (Kaggle)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
 - A sampled version is used which includes 500,000 dataset which is in CSV format.  It can be downloaded directly from Google Drive the link is also given in the kaggle website and can also download from this link (https://drive.google.com/file/d/1U3u8QYzLjnEaSurtZfSAS_oh9AT2Mn8X/edit).
 
 ## How to Run
 
 1. **Open Google Colab**:  
-   Visit (https://colab.research.google.com/) and upload the provided notebook.
+   Visit (https://colab.research.google.com/) and upload the  notebook.
    
 2. **Dataset Access**:  
    - Download the CSV from the link above and upload to Colab,
