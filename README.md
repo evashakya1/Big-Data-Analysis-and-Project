@@ -1,7 +1,7 @@
 # Big Data Analysis and Project
 
 
-#  Weather based Road Accident Prediction for Drivers’ Safety
+#  Road Accident Severity Prediction for Drivers’ Safety
 
 This repository contains the code and analysis for my project onRoad Accident Prediction, focused on exploring the relationship between weather, road features, time-of-day, and accident severity.
 
